@@ -1,0 +1,1 @@
+{"id":"obsidian-vim-im-switch-plugin","name":"Vim Input Method Switch","version":"1.2.0","minAppVersion":"1.5.3","description":"Switch input method with fcitx-remote when Vim keymap is enabled.","author":"Yuan Chen","authorUrl":"https://github.com/yuanotes","isDesktopOnly":true}
