@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "403df4f1e6be43c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d254628bdf84aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0afed7b66087c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. PeriodicNotes/2024/Daily/01/2024-01-01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "681a9573e3db4410",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e35f558b7f9ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6526b62ff204a8d",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {}
+            }
+          },
+          {
+            "id": "5feeb2eee0095d05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a64eecd52c758a2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7791aabd2ee2c71",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7bbe40b024b35f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d18ee498288465ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fdf060bc5cd7dd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2560b32cdf3b1035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"image\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "471a75d7050493da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "dd264624398f4c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e8fa77b9605e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f166d73f777d45c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. PeriodicNotes/2024/Daily/01/2024-01-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40a25c892d225b98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. PeriodicNotes/2024/Daily/01/2024-01-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5027513ef8544f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. PeriodicNotes/2024/Daily/01/2024-01-01.md"
+              }
+            }
+          },
+          {
+            "id": "540cef791950b46d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0. PeriodicNotes/2024/Daily/01/2024-01-01.md"
+              }
+            }
+          },
+          {
+            "id": "cef71cbc7e9f813e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dac66002cabcfc5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "periodic-para:Periodic PARA": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "a0afed7b66087c89",
+  "lastOpenFiles": [
+    "0. PeriodicNotes/Templates/Daily.md",
+    "0. PeriodicNotes/2024/Daily/01/2024-01-03.md",
+    "0. PeriodicNotes/2024/Daily/01/2024-01-02.md",
+    "0. PeriodicNotes/2024/Daily/01/2024-01-01.md",
+    "0. PeriodicNotes/0. PeriodicNotes.md",
+    "-. Inbox/-. Inbox.md",
+    "1. Projects/Untitled.md",
+    "1. Projects/Template.md",
+    "1. Projects/Templates",
+    "-. Inbox",
+    "0. PeriodicNotes/Templates",
+    "2024-W01.md",
+    "0. PeriodicNotes/2024/Daily/01",
+    "0. PeriodicNotes/2024/Daily",
+    "0. PeriodicNotes/2024",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "2. Areas/工具/Obsidian.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "0. PeriodicNotes",
+    "202401011756.md",
+    "2. Areas/工具/Develop/vivim-graphical.pdf",
+    "2. Areas/工具/Develop/vim.md",
+    "2. Areas/工具/Develop",
+    "2. Areas/工具",
+    "2023-12-31.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 6.md",
+    "Untitled 4.md",
+    "Untitled 5.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "test.md",
+    "Pasted image 20231231192600.png",
+    "Pasted image 20231231193746.png",
+    "未命名.canvas",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md"
+  ]
+}
